@@ -1,3 +1,3 @@
-# SISTEMA INTELIGENTE DE RECOMENDACIÓN DE LUGARES TURÍSTICOS EN CDMX, PUEBLA Y QUERÉTARO BASADO EN LAS PREFERENCIAS Y RESTRICCIONES DEL USUARIO
+# Sistema Inteligente de Recomendación de Lugares Turísticos en CDMX, PUEBLA y QUERÉTARO Basado en las Preferencias y Restricciones del Usuario
 
 
